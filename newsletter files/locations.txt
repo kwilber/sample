@@ -1,0 +1,7 @@
+Newsletter files
+
+Info.phtml: /app/design/frontend/base/default/template/customer/account/dashboard
+Cart.phtml: /app/design/frontend/base/default/template/checkout
+Billing.phtml: /app/design/frontend/base/default/template/checkout/onepage
+Register.phtml: /app/design/frontend/base/default/template/customer/form
+Newsletter.phtml /app/design/frontend/base/default/template/customer/form
