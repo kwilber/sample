@@ -1,23 +1,5 @@
 /*
-   New Perspectives on JavaScript
-   Tutorial 7
-   Case Problem 1
-
-   Author: Kristopher Wilber
-   Date:   11/18/2011
-
-   Filename: engfr.js
-   Function List:
-   eventSource(e)
-      Returns the source of an event in either event model
-   swapFE(phrase, pnum)
-      Changes a French phrase to the English version of that phrase.
-   swapEF(phrase, pnum)
-      Changes an English phrase ot the Frech version of that phrase.\
-
-      setUpTranslation()
-      Insert the current week's french phrases into document and set up
-      event handlers for the phrases.
+ 2011 Kristopher Wilber
 */
 function eventSource(e) {
    var IE = document.all ? true:false;
